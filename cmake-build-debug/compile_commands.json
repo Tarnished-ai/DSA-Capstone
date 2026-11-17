@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/Gian A. Gunda/CLionProjects/DSA_capstone/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -fdiagnostics-color=always -o CMakeFiles\\DSA_capstone.dir\\main.cpp.obj -c \"C:\\Users\\Gian A. Gunda\\CLionProjects\\DSA_capstone\\main.cpp\"",
+  "file": "C:/Users/Gian A. Gunda/CLionProjects/DSA_capstone/main.cpp",
+  "output": "C:/Users/Gian A. Gunda/CLionProjects/DSA_capstone/cmake-build-debug/CMakeFiles/DSA_capstone.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Gian A. Gunda/CLionProjects/DSA_capstone/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -fdiagnostics-color=always -o CMakeFiles\\DSA_capstone.dir\\inventory.cpp.obj -c \"C:\\Users\\Gian A. Gunda\\CLionProjects\\DSA_capstone\\inventory.cpp\"",
+  "file": "C:/Users/Gian A. Gunda/CLionProjects/DSA_capstone/inventory.cpp",
+  "output": "C:/Users/Gian A. Gunda/CLionProjects/DSA_capstone/cmake-build-debug/CMakeFiles/DSA_capstone.dir/inventory.cpp.obj"
+},
+{
+  "directory": "C:/Users/Gian A. Gunda/CLionProjects/DSA_capstone/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -fdiagnostics-color=always -o CMakeFiles\\DSA_capstone.dir\\data_structures.cpp.obj -c \"C:\\Users\\Gian A. Gunda\\CLionProjects\\DSA_capstone\\data_structures.cpp\"",
+  "file": "C:/Users/Gian A. Gunda/CLionProjects/DSA_capstone/data_structures.cpp",
+  "output": "C:/Users/Gian A. Gunda/CLionProjects/DSA_capstone/cmake-build-debug/CMakeFiles/DSA_capstone.dir/data_structures.cpp.obj"
+},
+{
+  "directory": "C:/Users/Gian A. Gunda/CLionProjects/DSA_capstone/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -fdiagnostics-color=always -o CMakeFiles\\DSA_capstone.dir\\checkout.cpp.obj -c \"C:\\Users\\Gian A. Gunda\\CLionProjects\\DSA_capstone\\checkout.cpp\"",
+  "file": "C:/Users/Gian A. Gunda/CLionProjects/DSA_capstone/checkout.cpp",
+  "output": "C:/Users/Gian A. Gunda/CLionProjects/DSA_capstone/cmake-build-debug/CMakeFiles/DSA_capstone.dir/checkout.cpp.obj"
+}
+]

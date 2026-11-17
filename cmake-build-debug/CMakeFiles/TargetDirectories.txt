@@ -1,0 +1,3 @@
+C:/Users/Gian A. Gunda/CLionProjects/DSA_capstone/cmake-build-debug/CMakeFiles/DSA_capstone.dir
+C:/Users/Gian A. Gunda/CLionProjects/DSA_capstone/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Gian A. Gunda/CLionProjects/DSA_capstone/cmake-build-debug/CMakeFiles/rebuild_cache.dir
