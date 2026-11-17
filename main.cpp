@@ -13,7 +13,6 @@
 using namespace std;
 
 // DSA FINAL CAPSTONE: Brand-Affiliated E-Commerce Inventory System
-// Build with CMake or compile all four .cpp files together.
 
 string lowerText(string value) {
     transform(value.begin(), value.end(), value.begin(),

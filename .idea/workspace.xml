@@ -28,7 +28,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c035dcd-23ae-4101-8bbf-0bbc04e2dd96" name="Changes" comment="" />
+    <list default="true" id="5c035dcd-23ae-4101-8bbf-0bbc04e2dd96" name="Changes" comment="Erste">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +44,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Tarnished-ai"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Tarnished-ai/DSA-Capstone.git",
+    "accountId": "0f43faf6-d2bb-4fae-88f8-6611401033b9"
+  }
+}]]></component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="R8lyfWJz" />
   </component>
@@ -128,8 +143,17 @@
       <workItem from="1794873192777" duration="231000" />
       <workItem from="1794873439742" duration="347000" />
       <workItem from="1794873811355" duration="3123000" />
-      <workItem from="1794877733049" duration="6363000" />
+      <workItem from="1794877733049" duration="7107000" />
     </task>
+    <task id="LOCAL-00001" summary="Erste">
+      <option name="closed" value="true" />
+      <created>1794887150477</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1794887150477</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +164,10 @@
     <isAutomaticFoundErrors value="true" />
     <isAutomaticReloadCMake value="true" />
     <isAutomaticBootstrapAfterUpdate value="false" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Erste" />
+    <option name="LAST_COMMIT_MESSAGE" value="Erste" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
